@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="PinTr/PinTr.vcxproj" Id="f0118224-5f57-4d66-8411-200b8d3e4f39" />
+  <Project Path="PinTr/vendor/spdlog/spdlog.vcxproj" Id="df1fbad0-e962-4524-9000-1f8bd6fbe391" />
+</Solution>
